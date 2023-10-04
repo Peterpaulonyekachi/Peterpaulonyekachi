@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peterpaulonyekachi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python Language 
+- 🌱 Education is my launchpad and the thrill of learning propels me forward. Armed with a Bachelor's in Engineering Technology and certifications in Python, Google Data Analytics, and Power BI, I'm on a perpetual learning curve. The data world evolves, and so do I.
 - 💞️ I’m looking to collaborate on Data analytics,Data science.
 - 📫 How to reach me 08101630793
 
